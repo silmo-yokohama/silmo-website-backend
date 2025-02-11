@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "bmewburn.vscode-intelephense-client",
+    "xdebug.php-debug",
+    "neilbrayfield.php-docblocker",
+    "wordpresstoolbox.wordpress-toolbox",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+    "mikestead.dotenv",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "redhat.vscode-yaml",
+    "usernamehw.errorlens",
+    "oderwat.indent-rainbow",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
